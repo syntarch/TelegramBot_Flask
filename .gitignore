@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/config.py
+/answer.json
+/old.py
+/misc.py
+/app.db
